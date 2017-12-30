@@ -2,6 +2,7 @@
     "name": "levilol/php-project",
     "description": "Example PHP project",
     "type": "project",
+    "license": "GNU v4",
     "authors": [
         {
             "name": "Levi Durfee",
