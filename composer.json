@@ -1,0 +1,17 @@
+{
+    "name": "levilol/php-project",
+    "description": "Example PHP project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Levi Durfee",
+            "email": "levi.durfee@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "levilol\\": "src/"
+        }
+    },
+    "require": {}
+}
